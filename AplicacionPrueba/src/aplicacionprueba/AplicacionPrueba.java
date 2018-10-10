@@ -19,7 +19,7 @@ public class AplicacionPrueba {
         
         // modificado por Alexis
         // modificado otra vez por Alex
-        
+        // Alex
         // modificando el codigo fuente de mi aplicacion
         System.out.println("Hola Mundo");
     }
