@@ -1,4 +1,3 @@
-
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
@@ -17,7 +16,10 @@ public class AplicacionPrueba {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        //modificado por yulisa
+        
+        // modificado por Alexis
+        // modificado otra vez por Alex
+        // Alex
         // modificando el codigo fuente de mi aplicacion
         System.out.println("Hola Mundo");
     }
